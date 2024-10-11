@@ -1,0 +1,31 @@
+h1{
+    color: blue;
+}
+
+p{
+    color: green;
+}
+
+.fondo-yellow{
+    background-color: rgba(195, 204, 152, 0.86);
+}
+
+.fuente-grande{
+    font-size: 3em;
+}
+
+.letra-negrita{
+    font-weight: bold;
+}
+
+ul{
+    list-style: none; 
+}
+
+a{
+    text-decoration: none;
+}
+
+.fuente-cursiva{
+    font-style: italic;
+}
